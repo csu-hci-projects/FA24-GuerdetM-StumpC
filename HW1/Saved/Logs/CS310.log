@@ -1494,3 +1494,600 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.10.18-15.50.59:654][981]LogFileHelpers: Saving map 'HW1_Lv2' took 0.092
 [2024.10.18-15.50.59:668][981]AssetCheck: New page: Asset Save: HW1_Lv2
 [2024.10.18-15.50.59:668][981]LogContentValidation: Display: Validating World /Game/CS310/HW1_Lv2.HW1_Lv2
+[2024.10.18-15.52.23:883][440]LogDerivedDataCache: C:/Users/Casey Stump/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.009 and deleted 0 file(s) with total size 0 MiB.
+[2024.10.18-15.52.52:021][809]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2024.10.18-15.52.52:023][809]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.58.05:685][153]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_Rifle
+[2024.10.18-15.58.05:686][153]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_Rifle9B4AEB2E42BE6431604E9E9CAF149F53.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_Rifle.uasset'
+[2024.10.18-15.58.05:701][153]AssetCheck: New page: Asset Save: BP_Rifle
+[2024.10.18-15.58.05:701][153]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2024.10.18-15.58.06:367][230]BlueprintLog: New page: Compile BP_Rifle
+[2024.10.18-15.58.06:424][230]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.18-15.58.16:089][266]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.18-15.58.16:089][266]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.59.05:952][362]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-15.59.05:959][362]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-15.59.05:959][362]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 3:59:05 AM)
+[2024.10.18-15.59.05:959][362]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-15.59.05:966][362]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006894s)
+[2024.10.18-15.59.05:966][362]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.006970s)
+[2024.10.18-15.59.05:966][362]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-15.59.05:967][362]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-15.59.05:967][362]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-15.59.05:967][362]LogPlayLevel: PIE: World Init took: (0.000746s)
+[2024.10.18-15.59.06:000][362]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.18-15.59.06:005][362]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-15.59.06:005][362]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-15.59.06:005][362]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-15.59.06:006][362]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-15.59.06:006][362]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-15.59.06:006][362]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-15.59.06:007][362]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-15.59.06:035][362]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-15.59.06:036][362]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-15.59.06:036][362]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-15.59.06:036][362]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-15.59.06:036][362]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2024.10.18-15.59.06:036][362]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2024.10.18-15.59.06:037][362]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2024.10.18-15.59.06:037][362]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2024.10.18-15.59.06:037][362]LogInit: FAudioDevice initialized.
+[2024.10.18-15.59.06:037][362]LogAudio: Display: Audio Device (ID: 10) registered with world 'HW1_Lv2'.
+[2024.10.18-15.59.06:046][362]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-15.59.06:048][362]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-09.59.06
+[2024.10.18-15.59.06:049][362]LogWorld: Bringing up level for play took: 0.002649
+[2024.10.18-15.59.06:051][362]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2024.10.18-15.59.06:052][362]PIE: Server logged in
+[2024.10.18-15.59.06:054][362]PIE: Play in editor total start time 0.095 seconds.
+[2024.10.18-15.59.17:095][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-15.59.17:095][315]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-15.59.17:095][315]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-15.59.17:095][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.59.17:106][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-15.59.17:111][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-15.59.17:145][315]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-15.59.17:145][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.18-15.59.17:146][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10
+[2024.10.18-15.59.17:149][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-15.59.17:152][315]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.18-15.59.17:202][316]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2024.10.18-16.00.10:879][879]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.18-16.00.11:918][879]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.10.18-16.00.11:925][879]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.10.18-16.00.11:933][879]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.10.18-16.00.11:950][880]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.10.18-16.00.17:762][254]LogContentBrowser: Attempting asset rename: NewBlueprint -> AmmoPickup
+[2024.10.18-16.00.17:766][254]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.10.18-16.00.20:571][434]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.00.20:571][434]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.00.20:991][434]LogViewport: Scene viewport resized to 1498x899, mode Windowed.
+[2024.10.18-16.00.46:252][870]LogSlate: Took 0.000228 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.10.18-16.02.08:327][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.18-16.02.08:354][186]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CS310/HW1_Lv2_Auto4
+[2024.10.18-16.02.08:354][186]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/HW1_Lv2_Auto440C50F40472FD7FC6DC9DCB1848AF54B.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/Autosaves/Game/CS310/HW1_Lv2_Auto4.umap'
+[2024.10.18-16.02.08:362][186]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS310/HW1_Lv2' took 0.075
+[2024.10.18-16.02.08:362][186]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.075
+[2024.10.18-16.03.40:887][208]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.03.40:947][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.18-16.03.41:765][250]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.03.41:765][250]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickup9BE304114A670B6E4EFAA7A1FA1CEE97.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.03.41:779][250]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.03.41:779][250]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.03.48:862][646]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.03.48:863][646]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickup26F877604C4678B324F06988A363C91C.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.03.48:879][646]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.03.48:879][646]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.03.49:774][695]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.03.49:831][695]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.10.18-16.04.18:559][361]LogSlate: Window 'AmmoPickup' being destroyed
+[2024.10.18-16.07.00:073][292]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.07.00:075][292]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickup2F8716FD4AA6893C1599889FAD98C27A.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.07.00:090][292]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.07.00:090][292]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.07.00:764][373]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.07.00:823][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.18-16.07.05:492][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.07.05:492][692]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.07.05:493][692]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_0
+[2024.10.18-16.07.05:494][692]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_0
+[2024.10.18-16.07.08:227][859]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.07.08:227][859]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.07.08:229][859]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_1
+[2024.10.18-16.07.08:230][859]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_1
+[2024.10.18-16.07.19:300][579]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-16.07.19:306][579]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-16.07.19:306][579]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 4:07:19 AM)
+[2024.10.18-16.07.19:306][579]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.07.19:313][579]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007260s)
+[2024.10.18-16.07.19:313][579]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.007340s)
+[2024.10.18-16.07.19:313][579]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.07.19:314][579]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.07.19:314][579]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.07.19:314][579]LogPlayLevel: PIE: World Init took: (0.000851s)
+[2024.10.18-16.07.19:356][579]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.18-16.07.19:361][579]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-16.07.19:361][579]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-16.07.19:361][579]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-16.07.19:361][579]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-16.07.19:361][579]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-16.07.19:361][579]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-16.07.19:363][579]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-16.07.19:389][579]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-16.07.19:389][579]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-16.07.19:390][579]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-16.07.19:390][579]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-16.07.19:391][579]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2024.10.18-16.07.19:391][579]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2024.10.18-16.07.19:392][579]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2024.10.18-16.07.19:392][579]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2024.10.18-16.07.19:392][579]LogInit: FAudioDevice initialized.
+[2024.10.18-16.07.19:392][579]LogAudio: Display: Audio Device (ID: 11) registered with world 'HW1_Lv2'.
+[2024.10.18-16.07.19:404][579]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.07.19:407][579]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.07.19
+[2024.10.18-16.07.19:407][579]LogWorld: Bringing up level for play took: 0.002758
+[2024.10.18-16.07.19:409][579]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.10.18-16.07.19:411][579]PIE: Server logged in
+[2024.10.18-16.07.19:412][579]PIE: Play in editor total start time 0.106 seconds.
+[2024.10.18-16.07.29:774][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.07.29:774][427]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.07.29:775][427]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.07.29:775][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.07.29:790][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-16.07.29:796][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.07.29:834][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-16.07.29:834][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.18-16.07.29:835][427]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2024.10.18-16.07.29:839][427]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.07.29:842][427]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.10.18-16.07.29:893][428]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.10.18-16.07.35:514][850]LogViewport: Scene viewport resized to 2288x1461, mode Windowed.
+[2024.10.18-16.07.49:992][465]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.07.49:993][465]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickupC23730C44947C10FF0F748AE56BBDDF4.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.07.50:007][465]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.07.50:007][465]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.07.50:345][501]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.07.50:407][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.18-16.07.55:390][918]Cmd: DELETE
+[2024.10.18-16.07.55:390][918]Cmd: ACTOR DELETE
+[2024.10.18-16.07.55:394][918]LogEditorActor: Deleted Actor: AmmoPickup_C
+[2024.10.18-16.07.55:434][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.10.18-16.07.55:439][918]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.10.18-16.09.22:826][847]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.09.22:827][847]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickupEC5AB047450A52D18D3E10B122A21D1A.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.09.22:840][847]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.09.22:840][847]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.09.23:207][891]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.09.23:264][891]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.18-16.09.40:305][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.09.40:305][540]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.09.40:306][540]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_2
+[2024.10.18-16.09.40:307][540]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_2
+[2024.10.18-16.09.43:663][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.09.43:663][772]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.09.43:664][772]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_3
+[2024.10.18-16.09.43:665][772]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_3
+[2024.10.18-16.09.45:229][882]Cmd: DELETE
+[2024.10.18-16.09.45:229][882]Cmd: ACTOR DELETE
+[2024.10.18-16.09.45:232][882]LogEditorActor: Deleted Actor: AmmoPickup_C
+[2024.10.18-16.09.45:275][882]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.10.18-16.09.45:279][882]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.10.18-16.10.02:887][810]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.10.02:899][810]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickup1475CDF14D67DA78AD429583FFBC13C4.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.10.02:916][810]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.10.02:916][810]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.10.03:236][845]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.10.03:294][845]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.10.18-16.10.06:623][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.06:623][ 74]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.06:624][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_4
+[2024.10.18-16.10.06:625][ 74]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_4
+[2024.10.18-16.10.14:588][637]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.14:588][637]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.14:590][637]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_5
+[2024.10.18-16.10.14:591][637]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_5
+[2024.10.18-16.10.17:309][829]Cmd: DELETE
+[2024.10.18-16.10.17:309][829]Cmd: ACTOR DELETE
+[2024.10.18-16.10.17:311][829]LogEditorActor: Deleted Actor: AmmoPickup_C
+[2024.10.18-16.10.17:354][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.10.18-16.10.17:359][829]LogEditorActor: Deleted 1 Actors (0.051 secs)
+[2024.10.18-16.10.26:915][856]LogSavePackage: Moving output files for package: /Game/MyBlueprints/AmmoPickup
+[2024.10.18-16.10.26:916][856]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/AmmoPickup6A53F221423F7D31C9FFFE8220B2DEC3.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/AmmoPickup.uasset'
+[2024.10.18-16.10.26:930][856]AssetCheck: New page: Asset Save: AmmoPickup
+[2024.10.18-16.10.26:930][856]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup
+[2024.10.18-16.10.27:327][899]BlueprintLog: New page: Compile AmmoPickup
+[2024.10.18-16.10.27:384][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.18-16.10.30:785][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.30:785][127]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.30:786][127]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_6
+[2024.10.18-16.10.30:786][127]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_6
+[2024.10.18-16.10.33:756][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.33:756][332]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.33:757][332]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_7
+[2024.10.18-16.10.33:759][332]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_7
+[2024.10.18-16.10.36:063][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.36:063][478]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.36:064][478]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_8
+[2024.10.18-16.10.36:065][478]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_8
+[2024.10.18-16.10.37:006][541]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.37:006][541]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/AmmoPickup.AmmoPickup_C
+[2024.10.18-16.10.37:008][541]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_9
+[2024.10.18-16.10.37:008][541]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/AmmoPickup.AmmoPickup as actor: AmmoPickup_C /Game/CS310/HW1_Lv2.HW1_Lv2:PersistentLevel.AmmoPickup_C_9
+[2024.10.18-16.10.44:848][ 72]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-16.10.44:854][ 72]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-16.10.44:854][ 72]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 4:10:44 AM)
+[2024.10.18-16.10.44:854][ 72]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.10.44:861][ 72]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006979s)
+[2024.10.18-16.10.44:861][ 72]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.007051s)
+[2024.10.18-16.10.44:861][ 72]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.10.44:861][ 72]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.10.44:862][ 72]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.10.44:862][ 72]LogPlayLevel: PIE: World Init took: (0.000884s)
+[2024.10.18-16.10.44:903][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.10.18-16.10.44:908][ 72]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-16.10.44:908][ 72]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-16.10.44:908][ 72]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-16.10.44:908][ 72]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-16.10.44:908][ 72]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-16.10.44:908][ 72]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-16.10.44:911][ 72]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-16.10.44:936][ 72]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-16.10.44:936][ 72]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-16.10.44:936][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-16.10.44:936][ 72]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-16.10.44:937][ 72]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2024.10.18-16.10.44:937][ 72]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2024.10.18-16.10.44:939][ 72]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2024.10.18-16.10.44:939][ 72]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2024.10.18-16.10.44:939][ 72]LogInit: FAudioDevice initialized.
+[2024.10.18-16.10.44:939][ 72]LogAudio: Display: Audio Device (ID: 12) registered with world 'HW1_Lv2'.
+[2024.10.18-16.10.44:953][ 72]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.10.44:955][ 72]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.10.44
+[2024.10.18-16.10.44:956][ 72]LogWorld: Bringing up level for play took: 0.002774
+[2024.10.18-16.10.44:957][ 72]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.10.18-16.10.44:959][ 72]PIE: Server logged in
+[2024.10.18-16.10.44:959][ 72]PIE: Play in editor total start time 0.106 seconds.
+[2024.10.18-16.11.10:344][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.11.10:344][319]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.11.10:344][319]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.11.10:345][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.11.10:356][319]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-16.11.10:363][319]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.11.10:401][319]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.11.10:401][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.18-16.11.10:403][319]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2024.10.18-16.11.10:409][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.18-16.11.10:460][320]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.10.18-16.11.44:859][839]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2024.10.18-16.11.44:861][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.11.44:881][839]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.11.45:210][839]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.11.45:210][839]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.11.46:253][950]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.11.46:253][950]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.13.34:296][863]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2024.10.18-16.13.34:298][863]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/UserInterfaceC611FA7345B95E04D8E709B26649D32C.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/UserInterface.uasset'
+[2024.10.18-16.13.34:312][863]AssetCheck: New page: Asset Save: UserInterface
+[2024.10.18-16.13.34:312][863]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2024.10.18-16.13.34:780][919]BlueprintLog: New page: Compile UserInterface
+[2024.10.18-16.13.34:853][919]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.18-16.14.07:401][896]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.18-16.14.07:403][896]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacter31077C3548EDC0048141D5AEEA16EFA4.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.18-16.14.07:416][896]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.18-16.14.07:416][896]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.18-16.14.07:783][927]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.18-16.14.07:873][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.10.18-16.15.08:318][569]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.18-16.18.53:955][716]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.18-16.18.54:035][716]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.18-16.19.21:903][872]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.18-16.19.21:904][872]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacter88C22EE147E2C1B727A512B24B68AA3D.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.18-16.19.21:919][872]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.18-16.19.21:919][872]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.18-16.20.53:100][ 36]LogEditorTransaction: Undo Add In Parameter
+[2024.10.18-16.21.15:130][558]LogSavePackage: Moving output files for package: /Game/UI/UserInterface
+[2024.10.18-16.21.15:131][558]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/UserInterface1FEA54F742505C2799A34DB9C5CA5054.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/UserInterface.uasset'
+[2024.10.18-16.21.15:146][558]AssetCheck: New page: Asset Save: UserInterface
+[2024.10.18-16.21.15:146][558]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/UserInterface.UserInterface
+[2024.10.18-16.21.15:493][599]BlueprintLog: New page: Compile UserInterface
+[2024.10.18-16.21.15:569][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.10.18-16.21.18:961][904]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-16.21.18:969][904]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-16.21.18:970][904]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 4:21:18 AM)
+[2024.10.18-16.21.18:970][904]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.21.18:977][904]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006889s)
+[2024.10.18-16.21.18:977][904]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.006947s)
+[2024.10.18-16.21.18:977][904]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.21.18:977][904]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.21.18:978][904]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.21.18:978][904]LogPlayLevel: PIE: World Init took: (0.000785s)
+[2024.10.18-16.21.19:017][904]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.10.18-16.21.19:021][904]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-16.21.19:021][904]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-16.21.19:021][904]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-16.21.19:021][904]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-16.21.19:021][904]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-16.21.19:021][904]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-16.21.19:024][904]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-16.21.19:050][904]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-16.21.19:050][904]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-16.21.19:050][904]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-16.21.19:050][904]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-16.21.19:052][904]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.10.18-16.21.19:052][904]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2024.10.18-16.21.19:052][904]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.10.18-16.21.19:052][904]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.10.18-16.21.19:052][904]LogInit: FAudioDevice initialized.
+[2024.10.18-16.21.19:052][904]LogAudio: Display: Audio Device (ID: 13) registered with world 'HW1_Lv2'.
+[2024.10.18-16.21.19:066][904]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.21.19:068][904]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.21.19
+[2024.10.18-16.21.19:069][904]LogWorld: Bringing up level for play took: 0.002633
+[2024.10.18-16.21.19:070][904]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.10.18-16.21.19:073][904]PIE: Server logged in
+[2024.10.18-16.21.19:073][904]PIE: Play in editor total start time 0.103 seconds.
+[2024.10.18-16.21.50:773][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.21.50:773][850]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.21.50:773][850]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.21.50:774][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.21.50:783][850]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-16.21.50:788][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.21.50:828][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-16.21.50:828][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.18-16.21.50:829][850]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.10.18-16.21.50:833][850]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.21.50:836][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.10.18-16.21.50:888][851]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.10.18-16.22.15:371][102]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.18-16.22.15:395][102]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/CS310/HW1_Lv2_Auto5
+[2024.10.18-16.22.15:395][102]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/HW1_Lv2_Auto5EA5756A3494135C48D221BB04E2639A1.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/Autosaves/Game/CS310/HW1_Lv2_Auto5.umap'
+[2024.10.18-16.22.15:402][102]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS310/HW1_Lv2' took 0.071
+[2024.10.18-16.22.15:402][102]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.071
+[2024.10.18-16.23.16:675][886]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.18-16.23.19:210][886]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.10.18-16.23.19:216][886]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.10.18-16.23.19:223][886]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.10.18-16.23.19:234][887]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.10.18-16.23.31:088][748]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WinMenu
+[2024.10.18-16.23.31:092][748]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.10.18-16.23.32:573][853]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WinMenu.WinMenu
+[2024.10.18-16.23.32:574][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.23.32:594][853]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.23.32:964][853]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.23.32:964][853]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.23.35:585][ 28]LogSlate: Window 'WinMenu' being destroyed
+[2024.10.18-16.23.38:756][399]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.18-16.23.38:756][399]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.23.38:756][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.27.22:722][560]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-16.27.52:519][993]LogSlate: Window 'Color Picker' being destroyed
+[2024.10.18-16.28.31:104][169]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.18-16.28.31:577][183]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.10.18-16.31.09:290][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinMenu" FILE="../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/WinMenu.uasset" SILENT=true
+[2024.10.18-16.31.09:295][633]LogSavePackage: Moving output files for package: /Game/UI/WinMenu
+[2024.10.18-16.31.09:295][633]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/WinMenu53006FDF4E485AB671A4FF9168C13241.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/WinMenu.uasset'
+[2024.10.18-16.31.09:308][633]AssetCheck: New page: Asset Save: WinMenu
+[2024.10.18-16.31.09:308][633]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinMenu.WinMenu
+[2024.10.18-16.31.09:805][693]BlueprintLog: New page: Compile WinMenu
+[2024.10.18-16.31.09:866][693]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.10.18-16.31.13:357][103]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.31.13:357][103]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-16.31.41:959][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinMenu" FILE="../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/WinMenu.uasset" SILENT=true
+[2024.10.18-16.31.41:965][403]LogSavePackage: Moving output files for package: /Game/UI/WinMenu
+[2024.10.18-16.31.41:966][403]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/WinMenu98916CB948B240656CFD769628E1FAA7.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/UI/WinMenu.uasset'
+[2024.10.18-16.31.41:983][403]AssetCheck: New page: Asset Save: WinMenu
+[2024.10.18-16.31.41:983][403]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/WinMenu.WinMenu
+[2024.10.18-16.31.42:370][449]BlueprintLog: New page: Compile WinMenu
+[2024.10.18-16.31.42:427][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.10.18-16.35.55:337][235]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.10.18-16.39.31:881][868]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SGraphPanel [SGraphEditorImpl.cpp(668)].
+[2024.10.18-16.39.31:942][868]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.10.18-16.39.31:945][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CS310/HW1_Lv2' took 0.049
+[2024.10.18-16.39.31:946][868]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.10.18-16.39.31:977][868]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.10.18-16.39.31:977][868]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.10.18-16.39.32:000][868]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6
+[2024.10.18-16.39.32:000][868]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacter_Auto6B74867A845CBC0647808ABB4877C9F6C.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto6.uasset'
+[2024.10.18-16.39.32:000][868]LogFileHelpers: Auto-saving content packages took 0.055
+[2024.10.18-16.39.58:991][ 13]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.18-16.39.58:993][ 13]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacterA8EBD6424360AE4F042F228F9188326C.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.18-16.39.59:009][ 13]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.18-16.39.59:009][ 13]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.18-16.39.59:294][ 45]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.18-16.39.59:378][ 45]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.18-16.40.21:443][466]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BPTarget.BPTarget
+[2024.10.18-16.40.21:443][466]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.41.30:585][621]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/BP_MovingTarget.BP_MovingTarget
+[2024.10.18-16.41.30:586][621]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.41.57:459][643]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BP_MovingTarget
+[2024.10.18-16.41.57:460][643]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_MovingTarget14897E734C2315C938A4DFA1788A11DF.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/BP_MovingTarget.uasset'
+[2024.10.18-16.41.57:475][643]AssetCheck: New page: Asset Save: BP_MovingTarget
+[2024.10.18-16.41.57:475][643]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BP_MovingTarget.BP_MovingTarget
+[2024.10.18-16.41.57:816][683]BlueprintLog: New page: Compile BP_MovingTarget
+[2024.10.18-16.41.57:921][683]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.10.18-16.41.59:508][844]LogSavePackage: Moving output files for package: /Game/MyBlueprints/BPTarget
+[2024.10.18-16.41.59:509][844]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BPTargetB2CD31484873246188049EAF82DEC19C.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/MyBlueprints/BPTarget.uasset'
+[2024.10.18-16.41.59:525][844]AssetCheck: New page: Asset Save: BPTarget
+[2024.10.18-16.41.59:525][844]LogContentValidation: Display: Validating Blueprint /Game/MyBlueprints/BPTarget.BPTarget
+[2024.10.18-16.41.59:979][898]BlueprintLog: New page: Compile BPTarget
+[2024.10.18-16.42.00:064][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.18-16.42.21:665][385]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-16.42.21:673][385]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-16.42.21:673][385]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 4:42:21 AM)
+[2024.10.18-16.42.21:673][385]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.42.21:681][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006906s)
+[2024.10.18-16.42.21:681][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.006974s)
+[2024.10.18-16.42.21:681][385]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.42.21:681][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.42.21:681][385]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.42.21:681][385]LogPlayLevel: PIE: World Init took: (0.000690s)
+[2024.10.18-16.42.21:732][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.10.18-16.42.21:735][385]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-16.42.21:735][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-16.42.21:735][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-16.42.21:736][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-16.42.21:736][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-16.42.21:736][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-16.42.21:738][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-16.42.21:764][385]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-16.42.21:765][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-16.42.21:765][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-16.42.21:765][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-16.42.21:766][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.10.18-16.42.21:766][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2024.10.18-16.42.21:767][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.10.18-16.42.21:767][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.10.18-16.42.21:767][385]LogInit: FAudioDevice initialized.
+[2024.10.18-16.42.21:767][385]LogAudio: Display: Audio Device (ID: 14) registered with world 'HW1_Lv2'.
+[2024.10.18-16.42.21:781][385]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.42.21:782][385]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.42.21
+[2024.10.18-16.42.21:783][385]LogWorld: Bringing up level for play took: 0.002580
+[2024.10.18-16.42.21:785][385]LogOnline: OSS: Created online subsystem instance for: :Context_50
+[2024.10.18-16.42.21:787][385]PIE: Server logged in
+[2024.10.18-16.42.21:788][385]PIE: Play in editor total start time 0.115 seconds.
+[2024.10.18-16.42.51:392][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.42.51:392][963]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.42.51:422][963]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.42.51:422][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.42.51:432][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-16.42.51:438][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.42.51:489][963]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-16.42.51:489][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.18-16.42.51:491][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.10.18-16.42.51:494][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.42.51:496][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.10.18-16.42.51:592][964]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2024.10.18-16.43.31:118][624]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.43.31:118][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.43.31:625][675]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.18-16.43.31:625][675]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.43.31:625][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.44.06:252][168]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.18-16.44.06:254][168]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacter9FAAC011432A6BCE0CF8F49A72A9F316.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.18-16.44.06:268][168]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.18-16.44.06:268][168]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.10.18-16.44.06:715][213]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.10.18-16.44.06:801][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.10.18-16.44.10:246][497]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.10.18-16.44.10:253][497]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.10.18-16.44.10:253][497]PIE: New page: PIE session: HW1_Lv2 (Oct 18, 2024, 4:44:10 AM)
+[2024.10.18-16.44.10:253][497]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.44.10:260][497]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006972s)
+[2024.10.18-16.44.10:260][497]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.007035s)
+[2024.10.18-16.44.10:260][497]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.44.10:260][497]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.44.10:260][497]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.44.10:260][497]LogPlayLevel: PIE: World Init took: (0.000726s)
+[2024.10.18-16.44.10:301][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.10.18-16.44.10:306][497]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.10.18-16.44.10:307][497]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.10.18-16.44.10:307][497]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.10.18-16.44.10:307][497]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.10.18-16.44.10:307][497]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.10.18-16.44.10:307][497]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.10.18-16.44.10:309][497]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.10.18-16.44.10:339][497]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.10.18-16.44.10:340][497]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.10.18-16.44.10:340][497]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.10.18-16.44.10:340][497]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.10.18-16.44.10:340][497]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.10.18-16.44.10:340][497]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2024.10.18-16.44.10:341][497]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.10.18-16.44.10:341][497]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.10.18-16.44.10:341][497]LogInit: FAudioDevice initialized.
+[2024.10.18-16.44.10:341][497]LogAudio: Display: Audio Device (ID: 15) registered with world 'HW1_Lv2'.
+[2024.10.18-16.44.10:351][497]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.44.10:355][497]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.44.10
+[2024.10.18-16.44.10:355][497]LogWorld: Bringing up level for play took: 0.002807
+[2024.10.18-16.44.10:357][497]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2024.10.18-16.44.10:359][497]PIE: Server logged in
+[2024.10.18-16.44.10:360][497]PIE: Play in editor total start time 0.107 seconds.
+[2024.10.18-16.44.25:314][850]LogNet: Browse: /Game/CS310/HW1_Lv2
+[2024.10.18-16.44.25:314][850]LogLoad: LoadMap: /Game/CS310/HW1_Lv2
+[2024.10.18-16.44.25:314][850]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.44.25:315][850]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.44.25:315][850]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.44.25:377][850]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-16.44.25:380][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.10.18-16.44.25:384][850]LogPlayLevel: Creating play world package: /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.44.25:391][850]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006846s)
+[2024.10.18-16.44.25:391][850]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CS310/HW1_Lv2.HW1_Lv2 to /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 (0.006938s)
+[2024.10.18-16.44.25:391][850]LogAudio: Display: Audio Device (ID: 15) registered with world 'HW1_Lv2'.
+[2024.10.18-16.44.25:391][850]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2024.10.18-16.44.25:391][850]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.44.25:392][850]LogAIModule: Creating AISystem for world HW1_Lv2
+[2024.10.18-16.44.25:392][850]LogPlayLevel: PIE: World Init took: (0.000706s)
+[2024.10.18-16.44.25:392][850]LogLoad: Game class is 'Pickup_GameMode_C'
+[2024.10.18-16.44.25:394][850]LogWorld: Bringing World /Game/CS310/UEDPIE_0_HW1_Lv2.HW1_Lv2 up for play (max tick rate 0) at 2024.10.18-10.44.25
+[2024.10.18-16.44.25:394][850]LogWorld: Bringing up level for play took: 0.002253
+[2024.10.18-16.44.25:397][850]LogLoad: Took 0.081882 seconds to LoadMap(/Game/CS310/UEDPIE_0_HW1_Lv2)
+[2024.10.18-16.44.27:011][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.44.27:011][980]LogWorld: BeginTearingDown for /Game/CS310/UEDPIE_0_HW1_Lv2
+[2024.10.18-16.44.27:011][980]LogWorld: UWorld::CleanupWorld for HW1_Lv2, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.44.27:013][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.44.27:021][980]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.10.18-16.44.27:027][980]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.44.27:063][980]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.10.18-16.44.27:063][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.18-16.44.27:065][980]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.10.18-16.44.27:068][980]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.10.18-16.44.27:071][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.18-16.44.27:109][981]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2024.10.18-16.44.57:933][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.10.18-16.44.57:995][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.10.18-16.44.58:021][307]LogSavePackage: Moving output files for package: /Game/CS310/HW1_Lv2
+[2024.10.18-16.44.58:023][307]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/HW1_Lv2D11FBA274E5796536363EC8B8A2CEA3E.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/CS310/HW1_Lv2.umap'
+[2024.10.18-16.44.58:037][307]LogFileHelpers: No new changes to save!
+[2024.10.18-16.44.58:037][307]LogFileHelpers: Saving map 'HW1_Lv2' took 0.078
+[2024.10.18-16.44.58:067][307]AssetCheck: New page: Asset Save: HW1_Lv2
+[2024.10.18-16.44.58:067][307]LogContentValidation: Display: Validating World /Game/CS310/HW1_Lv2.HW1_Lv2
+[2024.10.18-16.45.11:338][452]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.45.11:338][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.45.11:346][452]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.45.11:347][452]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.45.11:815][491]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.45.11:815][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.45.11:824][491]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.45.11:824][491]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.46.11:337][216]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.10.18-16.46.11:337][216]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.46.11:337][216]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.10.18-16.46.32:435][609]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/FirstPerson/Blueprints/BP_Rifle.BP_Rifle
+[2024.10.18-16.46.32:435][609]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.10.18-16.46.35:429][820]LogUObjectGlobals: Warning: Failed to find object 'Class None.DestructibleMesh'
+[2024.10.18-16.46.49:961][975]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.10.18-16.46.49:961][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
