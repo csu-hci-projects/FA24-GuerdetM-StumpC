@@ -1362,3 +1362,13 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2024.10.18-19.12.03:925][144]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.10.18-19.12.04:287][144]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
 [2024.10.18-19.12.04:287][144]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.10.18-19.15.10:733][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.10.18-19.15.10:740][864]LogSavePackage: Moving output files for package: /Game/CS310/MenuLvl
+[2024.10.18-19.15.10:742][864]LogSavePackage: Moving '../../../../../../Users/casey/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/MenuLvl33C5FA7E4CD90EE7C24D77ABAEBED42D.tmp' to '../../../../../../Users/casey/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/CS310/MenuLvl.umap'
+[2024.10.18-19.15.10:750][864]LogFileHelpers: No new changes to save!
+[2024.10.18-19.15.10:763][864]AssetCheck: New page: Asset Save: MenuLvl
+[2024.10.18-19.15.10:763][864]LogContentValidation: Display: Validating World /Game/CS310/MenuLvl.MenuLvl
+[2024.10.18-19.15.12:909][ 57]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.10.18-19.15.12:911][ 57]LogSavePackage: Moving '../../../../../../Users/casey/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Saved/BP_FirstPersonCharacter7320E5044C03E40EE109188074285643.tmp' to '../../../../../../Users/casey/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW1/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.10.18-19.15.12:925][ 57]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.10.18-19.15.12:925][ 57]LogContentValidation: Display: Validating Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
