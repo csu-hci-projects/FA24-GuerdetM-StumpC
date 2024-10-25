@@ -9,7 +9,7 @@
 * ammo pick-ups and UI to show the amount
 * Added things from the Homework (targets, moving targets)
 * targets destroy
-* end game menu
+* game ending
 
 ## What Mallory Did
 * I did the main menu when it comes to the UI and being able to connect that to a scene to where you load in you will be able to click either start (to load in level 1) or quit (this would exit the game).
