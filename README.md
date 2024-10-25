@@ -27,3 +27,4 @@
 ## References Used:
 * https://www.google.com/search?client=firefox-b-1-d&q=unreal+game+enging+how+to+get+mainmenu+UI+on+the+scene#fpstate=ive&vld=cid:cc17af89,vid:kumZj_mov58,st:0
 * https://youtu.be/6hoXr1Ts6oM?si=Sf5zKxxB-eZIi8bs
+* https://forums.unrealengine.com/t/getting-projectiles-to-inflict-damage/279177
