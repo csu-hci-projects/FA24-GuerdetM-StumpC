@@ -22,6 +22,7 @@
 ## How to Run The Game
 * When it comes to this game you should be able to just run it without anything specifically needed, maybe being able to open the HW1_Main_Menu
 * The targets take 5 hits to disappear, unable to add a health bar to the targets.
+* End main menu his 'Shift' +  'F1' to get the curser to come on screen
 
 ## References Used:
 * https://www.google.com/search?client=firefox-b-1-d&q=unreal+game+enging+how+to+get+mainmenu+UI+on+the+scene#fpstate=ive&vld=cid:cc17af89,vid:kumZj_mov58,st:0
