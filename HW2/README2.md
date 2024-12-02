@@ -3,6 +3,13 @@
 ## Creators
 ### Casey Stump and Mallory Guerdet-Schuster
 
+## Youtube Videos
+### Video Of VR Play
+*
+
+### Video of Explained BluePrints
+*
+
 ## What Casey Did
 * Targets
 * Keeping track of destroyed targets
