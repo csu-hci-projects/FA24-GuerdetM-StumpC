@@ -12,10 +12,11 @@
 
 ## What Casey Did
 * Targets
+* Made level teleportable 
 * Keeping track of destroyed targets
 * Unlock the teleportation
 * 2 grabbable items and interactibles
-* Un the VR
+* Run the VR
 * Uploading the work to GitHub
 
 ## What Mallory Did
