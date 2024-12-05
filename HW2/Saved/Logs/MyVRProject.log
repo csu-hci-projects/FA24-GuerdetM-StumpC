@@ -2051,3 +2051,6 @@ The following settings have been applied:
 [2024.12.05-15.08.35:335][333]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 844 ms)
 [2024.12.05-15.08.35:338][333]AssetCheck: New page: Asset Save: MyVRMap
 [2024.12.05-15.08.35:338][333]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.05-15.10.35:855][ 62]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2132.255615
+[2024.12.05-15.10.36:857][ 65]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.12.05-15.10.36:857][ 65]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2132.922852, Update Interval: 342.126526
