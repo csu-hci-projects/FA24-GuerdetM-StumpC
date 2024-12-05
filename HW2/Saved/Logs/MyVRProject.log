@@ -1366,3 +1366,29 @@ The following settings have been applied:
 [2024.12.05-15.14.47:274][564]Cmd: MAP CHECKDEP NOCLEARLOG
 [2024.12.05-15.14.47:274][564]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.141ms to complete.
 [2024.12.05-15.14.47:275][564]LogSlate: Window 'Open Level' being destroyed
+[2024.12.05-15.15.51:900][ 66]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.15.52:035][ 69]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.15.53:957][278]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.15.53:983][279]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.15.54:008][280]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.15.54:080][284]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.05-15.16.05:457][487]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.12.05-15.16.07:137][632]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2024.12.05-15.16.35:184][557]LogDerivedDataCache: C:/Users/Casey Stump/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.147 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1469 files in 2323 folders with total size 49 MiB.
+[2024.12.05-15.17.05:747][836]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.17.05:796][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2024.12.05-15.17.05:805][836]LogPackageLocalizationCache: Processed 48 localized package path(s) for 1 prioritized culture(s) in 0.006739 seconds
+[2024.12.05-15.17.05:832][836]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.05-15.17.05:834][836]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMap1DB46C9F4D89616B261EA0B6ED6604EE.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.05-15.17.05:841][836]LogFileHelpers: Saving map 'MyVRMap' took 0.069
+[2024.12.05-15.17.05:852][836]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms
+[2024.12.05-15.17.05:854][836]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.05-15.17.05:854][836]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.05-15.17.32:781][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-15.17.32:836][ 25]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2024.12.05-15.17.32:866][ 25]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.05-15.17.32:868][ 25]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMapBA3A24624D9A60125E5D6F9CA1DF0B1E.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.05-15.17.32:875][ 25]LogFileHelpers: Saving map 'MyVRMap' took 0.063
+[2024.12.05-15.17.32:884][ 25]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 208 ms)
+[2024.12.05-15.17.32:886][ 25]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.05-15.17.32:886][ 25]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
