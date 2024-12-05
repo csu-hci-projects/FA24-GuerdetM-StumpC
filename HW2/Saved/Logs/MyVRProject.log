@@ -2747,3 +2747,11 @@ Script Stack (0 frames) :
 [2024.12.05-16.23.44:153][ 76]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2024.12.05-16.23.44:155][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
 [2024.12.05-16.23.44:247][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2024.12.05-16.24.07:659][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.05-16.24.07:744][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.05-16.24.07:774][ 12]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.05-16.24.07:775][ 12]LogSavePackage: Moving '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMapD2A276234C64305BD80CE4AFC83E76D0.tmp' to '../../../../../../Users/Casey Stump/OneDrive/Documents/school/CSU Fall 2024/CS310/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.05-16.24.07:783][ 12]LogFileHelpers: Saving map 'MyVRMap' took 0.075
+[2024.12.05-16.24.07:791][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 131 ms (total: 5.44 sec)
+[2024.12.05-16.24.07:794][ 12]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.05-16.24.07:794][ 12]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
