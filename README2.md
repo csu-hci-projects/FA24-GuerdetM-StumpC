@@ -15,7 +15,7 @@
 * Made level teleportable 
 * Keeping track of destroyed targets
 * Unlock the teleportation
-* 2 grabbable items and interactibles
+* 3 grabbable items and interactibles
 * Run the VR
 * Uploading the work to GitHub
 
