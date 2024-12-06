@@ -2554,3 +2554,11 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-17.59.04:088][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 2.67 sec)
 [2024.12.06-17.59.04:089][420]AssetCheck: New page: Asset Save: MyVRMap
 [2024.12.06-17.59.04:090][420]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-17.59.41:530][679]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.59.41:629][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.12.06-17.59.41:656][679]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-17.59.41:656][679]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMap2A5D130F4326B2D1C7798EB983429263.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-17.59.41:664][679]LogFileHelpers: Saving map 'MyVRMap' took 0.075
+[2024.12.06-17.59.41:674][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.82 sec)
+[2024.12.06-17.59.41:676][679]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-17.59.41:676][679]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
