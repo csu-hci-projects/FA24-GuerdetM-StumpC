@@ -8,7 +8,7 @@
 * https://youtu.be/R1ItBe01RKk
 
 ### Video of Explained BluePrints
-*
+* https://youtu.be/-32ZH70SfaM
 
 ## What Casey Did
 * Targets
