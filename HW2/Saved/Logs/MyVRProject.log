@@ -2872,3 +2872,93 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-19.09.37:949][618]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
 [2024.12.06-19.09.37:949][618]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
 [2024.12.06-19.09.37:979][618]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.06-19.11.56:833][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
+[2024.12.06-19.11.56:833][598]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
+[2024.12.06-19.11.56:834][598]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2024.12.06-19.11.56:834][598]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2024.12.06-19.11.56:835][598]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_0
+[2024.12.06-19.11.56:837][598]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_0
+[2024.12.06-19.11.56:845][598]LogOutputDevice: Warning: 
+
+Script Stack (0 frames) :
+
+[2024.12.06-19.11.56:856][598]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.011 s
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: === Handled ensure: ===
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: 
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: Ensure condition failed: CurrentNum == InitialNum  [File:D:\build\++UE5\Sync\Engine\Source\Runtime\Core\Public\Containers\Array.h] [Line: 256] 
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: Array has changed during ranged-for iteration!
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: Stack: 
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffc560a802d UnrealEditor-Slate.dll!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffc560a6bae UnrealEditor-Slate.dll!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e671955e UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e673d28c UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e673d37a UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e6740854 UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e6756984 UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ff7e6759d7a UnrealEditor.exe!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffca9707374 KERNEL32.DLL!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffca9f7cc91 ntdll.dll!UnknownFunction []
+[2024.12.06-19.11.56:856][598]LogOutputDevice: Error: 
+[2024.12.06-19.11.56:868][598]LogStats:                SubmitErrorReport -  0.000 s
+[2024.12.06-19.11.58:123][598]LogStats:                    SendNewReport -  1.255 s
+[2024.12.06-19.11.58:123][598]LogStats:             FDebug::EnsureFailed -  1.278 s
+[2024.12.06-19.11.58:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
+[2024.12.06-19.11.58:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
+[2024.12.06-19.11.58:153][599]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_1
+[2024.12.06-19.11.58:155][599]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_1
+[2024.12.06-19.11.58:242][600]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.12.06-19.12.54:087][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-19.12.54:192][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.06-19.12.54:206][  7]LogSavePackage: Moving output files for package: /Game/MyMaps/MainMenu
+[2024.12.06-19.12.54:207][  7]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MainMenu141E75C44384A7616D3921BB4F0D3EA0.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MainMenu.umap'
+[2024.12.06-19.12.54:215][  7]LogFileHelpers: Saving map 'MainMenu' took 0.068
+[2024.12.06-19.12.54:226][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.69 sec)
+[2024.12.06-19.12.54:228][  7]AssetCheck: New page: Asset Save: MainMenu
+[2024.12.06-19.12.54:228][  7]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MainMenu.MainMenu
+[2024.12.06-19.17.31:199][381]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.17.31:199][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.17.42:110][515]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.17.42:110][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.18.07:293][381]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.18.07:296][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.18.07:296][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.18.07:332][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.06-19.18.07:689][409]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.12.06-19.18.16:531][225]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/MyBlueprints/IM_Reload_Right.IM_Reload_Right
+[2024.12.06-19.18.36:850][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable
+[2024.12.06-19.18.36:850][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-19.18.36:850][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-19.21.52:277][511]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2024.12.06-19.23.51:241][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode
+[2024.12.06-19.23.51:242][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-19.23.51:242][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-19.23.54:648][  7]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.23.54:648][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.24.50:960][381]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.24.50:963][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.24.50:964][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.24.51:002][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.06-19.25.17:011][343]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.12.06-19.26.08:877][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.06-19.26.08:882][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/MainMenu' took 0.020
+[2024.12.06-19.26.08:883][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyBlueprints/MainMenuPawn] ([2] browsable assets)...
+[2024.12.06-19.26.08:883][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/MainMenuPawn]
+[2024.12.06-19.26.08:895][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/MainMenuPawn_Auto7
+[2024.12.06-19.26.08:895][208]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MainMenuPawn_Auto7A1870AE54A3E7E8EE8AFEAA9CC4626B1.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/Autosaves/Game/MyBlueprints/MainMenuPawn_Auto7.uasset'
+[2024.12.06-19.26.08:897][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyBlueprints/InputActionTriggerLeft] ([1] browsable assets)...
+[2024.12.06-19.26.08:897][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/InputActionTriggerLeft]
+[2024.12.06-19.26.08:897][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/InputActionTriggerLeft_Auto7
+[2024.12.06-19.26.08:897][208]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/InputActionTriggerLeft_Auto76954F4BF423651C6AE27B4AAAECFF52E.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/Autosaves/Game/MyBlueprints/InputActionTriggerLeft_Auto7.uasset'
+[2024.12.06-19.26.08:898][208]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.12.06-19.27.08:744][708]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.27.08:747][708]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.27.08:747][708]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.27.08:783][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.06-19.27.28:146][846]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.27.28:148][846]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.27.28:148][846]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.27.28:181][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.06-19.29.54:132][152]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.29.54:135][152]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.29.54:135][152]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.29.54:170][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
