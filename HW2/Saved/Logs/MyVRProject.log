@@ -2035,3 +2035,200 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-17.13.08:332][418]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2024.12.06-17.13.08:332][418]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
 [2024.12.06-17.13.08:332][418]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.38:196][ 48]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.38:196][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.38:201][ 48]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.38:201][ 48]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.38:633][ 92]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.38:633][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.38:640][ 92]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.38:640][ 92]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.39:055][129]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-17.13.39:055][129]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.39:055][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.39:423][165]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-17.13.39:423][165]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.39:423][165]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.39:835][203]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-17.13.39:835][203]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.13.39:835][203]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.13.56:861][991]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/VRTarget.VRTarget
+[2024.12.06-17.13.56:862][991]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.13.56:862][991]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.17.06:434][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.12.06-17.17.07:970][ 33]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-17.17.07:983][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.17.08:044][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/VRTarget" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/VRTarget.uasset" SILENT=true
+[2024.12.06-17.17.08:052][ 33]LogSavePackage: Moving output files for package: /Game/MyBlueprints/VRTarget
+[2024.12.06-17.17.08:053][ 33]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/VRTarget37F9D14445A31A765148BE8121F40065.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/VRTarget.uasset'
+[2024.12.06-17.17.08:054][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/widgetActor" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/widgetActor.uasset" SILENT=true
+[2024.12.06-17.17.08:056][ 33]LogSavePackage: Moving output files for package: /Game/MyBlueprints/widgetActor
+[2024.12.06-17.17.08:056][ 33]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/widgetActor608ABC054FFC2EE9447017B095E05307.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/widgetActor.uasset'
+[2024.12.06-17.17.08:060][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WinUI" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/UI/WinUI.uasset" SILENT=true
+[2024.12.06-17.17.08:062][ 33]LogSavePackage: Moving output files for package: /Game/UI/WinUI
+[2024.12.06-17.17.08:063][ 33]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/WinUI8BFF1B2B4DD6E1EAB1730DB7BC46FA2E.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/UI/WinUI.uasset'
+[2024.12.06-17.17.08:070][ 33]LogFileHelpers: InternalPromptForCheckoutAndSave took 85 ms (total: 1.51 sec)
+[2024.12.06-17.17.08:070][ 33]Cmd: MAP LOAD FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-17.17.08:070][ 33]LightingResults: New page: Lighting Build
+[2024.12.06-17.17.08:071][ 33]LoadErrors: New page: Loading map: MyVRMap.umap
+[2024.12.06-17.17.08:096][ 33]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.17.08:097][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.17.08:097][ 33]MapCheck: New page: Map Check
+[2024.12.06-17.17.08:097][ 33]LightingResults: New page: Lighting Build
+[2024.12.06-17.17.08:109][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-17.17.08:113][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.06-17.17.08:126][ 33]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyVRMap'.
+[2024.12.06-17.17.08:126][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.17.08:126][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.17.08:126][ 33]LogAIModule: Creating AISystem for world MyVRMap
+[2024.12.06-17.17.08:159][ 33]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-17.17.08:176][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.06-17.17.08:180][ 33]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-17.17.08:181][ 33]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.14ms to complete.
+[2024.12.06-17.17.08:181][ 33]LogSlate: Window 'Open Level' being destroyed
+[2024.12.06-17.17.08:190][ 33]AssetCheck: New page: Asset Save: multiple assets
+[2024.12.06-17.17.08:190][ 33]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/VRTarget.VRTarget
+[2024.12.06-17.17.08:190][ 33]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/widgetActor.widgetActor
+[2024.12.06-17.17.08:190][ 33]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WinUI.WinUI
+[2024.12.06-17.17.14:529][634]LogSlate: External Image Picker: DecompressImage failed
+[2024.12.06-17.17.16:035][788]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.06-17.17.16:041][788]LogSlate: Window 'Project Settings' being destroyed
+[2024.12.06-17.17.54:325][ 23]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Total job queries 1,181, among them cache hits 31 (2.62%)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Tracking 1,147 distinct input hashes that result in 683 distinct outputs (59.55%)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: RAM used: 23.47 MiB of 1.60 GiB budget. Usage: 1.43%
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Shaders Compiled: 1,147
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Jobs assigned 1,147, completed 1,147 (100%)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Average time worker was idle: 80.24 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Time job spent in pending queue: average 27.05 s, longest 76.09 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Job execution time: average 5.49 s, max 15.43 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Job life time (pending + execution): average 32.54 s, max 77.21
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Shader code size: average 53.809 KiB, min 2.262 KiB, max 100.613 KiB
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 111.56 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Jobs were issued in 225 batches (only local compilation was used), average 5.10 jobs/batch
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Average processing rate: 10.28 jobs/sec
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Total thread time: 714.144 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Total thread preprocess time: 20.475 s
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Percentage time preprocessing: 2.87%
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Effective parallelization: 6.40 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 1.84 sec, max 2.29 sec, min 1.62 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 1.79 sec, max 2.63 sec, min 1.56 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   42 times, average 1.75 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   11 times, average 1.69 sec, max 2.86 sec, min 0.52 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   11 times, average 1.66 sec, max 2.65 sec, min 0.48 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.30% of total time (compiled   42 times, average 1.75 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.42% of total time (compiled   49 times, average 1.23 sec, max 2.55 sec, min 0.18 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.03% of total time (compiled   26 times, average 1.66 sec, max 2.67 sec, min 0.51 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.01% of total time (compiled   26 times, average 1.65 sec, max 2.63 sec, min 0.52 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 6.00% of total time (compiled   26 times, average 1.65 sec, max 2.72 sec, min 0.51 sec)
+[2024.12.06-17.17.54:770][ 65]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.18.46:635][114]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.12.06-17.18.46:636][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.18.46:636][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.19.18:431][660]LogSlate: Took 0.006071 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.12.06-17.27.06:310][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.06-17.27.06:314][ 46]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/MyVRMap' took 0.021
+[2024.12.06-17.27.06:315][ 46]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/VRTemplate/Blueprints/VRPawn] ([2] browsable assets)...
+[2024.12.06-17.27.06:335][ 46]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn]
+[2024.12.06-17.27.06:335][ 46]OBJ SavePackage: Finished generating thumbnails for package [/Game/VRTemplate/Blueprints/VRPawn]
+[2024.12.06-17.27.06:399][ 46]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto3
+[2024.12.06-17.27.06:399][ 46]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/VRPawn_Auto34DC17E9741CBCBA98B89F889A80FB71C.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/Autosaves/Game/VRTemplate/Blueprints/VRPawn_Auto3.uasset'
+[2024.12.06-17.27.06:399][ 46]LogFileHelpers: Auto-saving content packages took 0.085
+[2024.12.06-17.27.55:943][934]BlueprintLog: New page: Compile VRPawn
+[2024.12.06-17.27.56:014][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.12.06-17.28.05:587][705]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.MyVRMap
+[2024.12.06-17.28.05:588][705]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.28.05:588][705]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.30.36:294][ 31]BlueprintLog: New page: Compile VRPawn
+[2024.12.06-17.30.36:372][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.12.06-17.33.13:676][928]BlueprintLog: New page: Compile VRPawn
+[2024.12.06-17.33.13:747][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.12.06-17.34.47:850][774]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyMaps\MyVRMap.umap: [Compiler] Pasted node  CustomEvent   conflicted with  Target Destroyed (VRTarget)  and was replaced as a Custom Event!
+[2024.12.06-17.35.16:905][991]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyMaps\MyVRMap.umap: [Compiler] Pasted node  CustomEvent   conflicted with  Target Destroyed (VRTarget)  and was replaced as a Custom Event!
+[2024.12.06-17.38.48:544][780]BlueprintLog: New page: Compile MyVRMap
+[2024.12.06-17.38.48:585][780]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.12.06-17.38.49:513][886]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.38.49:596][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.12.06-17.38.49:620][886]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-17.38.49:621][886]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMapCCD562B0440A29E1C3D5C6BD03F3F304.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-17.38.49:628][886]LogFileHelpers: Saving map 'MyVRMap' took 0.075
+[2024.12.06-17.38.49:635][886]LogFileHelpers: InternalPromptForCheckoutAndSave took 122 ms (total: 1.63 sec)
+[2024.12.06-17.38.49:637][886]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-17.38.49:637][886]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-17.39.27:486][282]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.39.27:588][282]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.12.06-17.39.27:613][282]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-17.39.27:614][282]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMap113BFD1547A5A5B7DF423EAB27DF1459.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-17.39.27:622][282]LogFileHelpers: Saving map 'MyVRMap' took 0.074
+[2024.12.06-17.39.27:628][282]LogFileHelpers: InternalPromptForCheckoutAndSave took 142 ms (total: 1.77 sec)
+[2024.12.06-17.39.27:630][282]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-17.39.27:630][282]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-17.39.39:605][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.12.06-17.39.43:026][599]LogSlate: Window 'Save Content' being destroyed
+[2024.12.06-17.39.43:036][599]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.39.43:113][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/VRTemplate/Blueprints/VRPawn" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/VRTemplate/Blueprints/VRPawn.uasset" SILENT=true
+[2024.12.06-17.39.43:175][599]LogSavePackage: Moving output files for package: /Game/VRTemplate/Blueprints/VRPawn
+[2024.12.06-17.39.43:175][599]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/VRPawn9762F8204D9A235E70AA5D86BBB23A6F.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/VRTemplate/Blueprints/VRPawn.uasset'
+[2024.12.06-17.39.43:188][599]LogFileHelpers: InternalPromptForCheckoutAndSave took 150 ms (total: 1.93 sec)
+[2024.12.06-17.39.43:244][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.39.43:245][599]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/WinLevel.WinLevel
+[2024.12.06-17.39.43:245][599]Cmd: MAP LOAD FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/WinLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-17.39.43:245][599]LightingResults: New page: Lighting Build
+[2024.12.06-17.39.43:246][599]LoadErrors: New page: Loading map: WinLevel.umap
+[2024.12.06-17.39.43:335][599]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.39.43:335][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.39.43:366][599]LogWorld: UWorld::CleanupWorld for MyVRMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.39.43:366][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.39.43:366][599]MapCheck: New page: Map Check
+[2024.12.06-17.39.43:366][599]LightingResults: New page: Lighting Build
+[2024.12.06-17.39.43:379][599]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-17.39.43:384][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.12.06-17.39.43:389][599]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.39.43:389][599]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.39.43:403][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.12.06-17.39.43:417][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.06-17.39.43:422][599]LogAudio: Display: Audio Device (ID: 1) registered with world 'WinLevel'.
+[2024.12.06-17.39.43:422][599]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.39.43:422][599]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.39.43:422][599]LogAIModule: Creating AISystem for world WinLevel
+[2024.12.06-17.39.43:436][599]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-17.39.43:448][599]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.12.06-17.39.43:456][599]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-17.39.43:457][599]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.109ms to complete.
+[2024.12.06-17.39.43:475][599]AssetCheck: New page: Asset Save: VRPawn
+[2024.12.06-17.39.43:475][599]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/VRTemplate/Blueprints/VRPawn.VRPawn
+[2024.12.06-17.39.53:928][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.39.53:928][776]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.39.53:929][776]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_0
+[2024.12.06-17.39.53:929][776]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_0
+[2024.12.06-17.39.54:817][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.39.54:817][879]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.39.54:819][879]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_1
+[2024.12.06-17.39.54:821][879]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_1
+[2024.12.06-17.40.03:742][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.40.03:742][897]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.40.03:742][897]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_2
+[2024.12.06-17.40.03:744][897]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_2
+[2024.12.06-17.40.04:840][ 13]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.40.04:840][ 13]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/WinWidget.WinWidget_C
+[2024.12.06-17.40.04:842][ 13]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_3
+[2024.12.06-17.40.04:843][ 13]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/WinWidget.WinWidget as actor: WinWidget_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.WinWidget_C_3
+[2024.12.06-17.40.24:387][814]Cmd: DELETE
+[2024.12.06-17.40.24:387][814]Cmd: ACTOR DELETE
+[2024.12.06-17.40.24:400][814]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.40.24:420][814]LogEditorActor: Deleted Actor: WinWidget_C
+[2024.12.06-17.40.24:451][814]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.06-17.40.24:457][814]LogEditorActor: Deleted 1 Actors (0.069 secs)
+[2024.12.06-17.41.10:989][243]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.41.11:069][243]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.12.06-17.41.11:079][243]LogSavePackage: Moving output files for package: /Game/MyMaps/WinLevel
+[2024.12.06-17.41.11:079][243]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/WinLevelA145749C43C7B9C2E7EE41BB3BE19D98.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/WinLevel.umap'
+[2024.12.06-17.41.11:086][243]LogFileHelpers: Saving map 'WinLevel' took 0.058
+[2024.12.06-17.41.11:094][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.03 sec)
+[2024.12.06-17.41.11:095][243]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-17.41.11:095][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/WinLevel.WinLevel
