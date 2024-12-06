@@ -2562,3 +2562,19 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-17.59.41:674][679]LogFileHelpers: InternalPromptForCheckoutAndSave took 144 ms (total: 2.82 sec)
 [2024.12.06-17.59.41:676][679]AssetCheck: New page: Asset Save: MyVRMap
 [2024.12.06-17.59.41:676][679]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-18.00.56:392][132]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/grabbableDecor.grabbableDecor
+[2024.12.06-18.00.56:392][132]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-18.00.56:393][132]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-18.01.15:504][291]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable
+[2024.12.06-18.01.15:505][291]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-18.01.15:505][291]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-18.05.43:027][169]BlueprintLog: New page: Compile grabbableDecor
+[2024.12.06-18.05.43:077][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.12.06-18.06.53:768][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-18.06.53:843][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.12.06-18.06.53:870][861]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-18.06.53:870][861]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMap4E184D934DD0B4585ED3EFB318147791.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-18.06.53:878][861]LogFileHelpers: Saving map 'MyVRMap' took 0.078
+[2024.12.06-18.06.53:885][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 2.94 sec)
+[2024.12.06-18.06.53:887][861]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-18.06.53:887][861]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
