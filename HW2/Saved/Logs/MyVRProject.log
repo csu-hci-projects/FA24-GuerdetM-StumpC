@@ -2910,6 +2910,59 @@ Script Stack (0 frames) :
 [2024.12.06-19.12.54:226][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.69 sec)
 [2024.12.06-19.12.54:228][  7]AssetCheck: New page: Asset Save: MainMenu
 [2024.12.06-19.12.54:228][  7]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MainMenu.MainMenu
+
+[2024.12.06-19.17.31:199][381]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.17.31:199][381]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.17.42:110][515]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.17.42:110][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.18.07:293][381]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.18.07:296][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.18.07:296][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.18.07:332][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.12.06-19.18.07:689][409]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.12.06-19.18.16:531][225]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/MyBlueprints/IM_Reload_Right.IM_Reload_Right
+[2024.12.06-19.18.36:850][330]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable
+[2024.12.06-19.18.36:850][330]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-19.18.36:850][330]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-19.21.52:277][511]LogViewport: Scene viewport resized to 1525x1235, mode Windowed.
+[2024.12.06-19.23.51:241][631]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/VRTemplate/Blueprints/VRGameMode.VRGameMode
+[2024.12.06-19.23.51:242][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-19.23.51:242][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-19.23.54:648][  7]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-19.23.54:648][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-19.24.50:960][381]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.24.50:963][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.24.50:964][381]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.24.51:002][381]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.12.06-19.25.17:011][343]LogViewport: Scene viewport resized to 643x397, mode Windowed.
+[2024.12.06-19.26.08:877][208]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.06-19.26.08:882][208]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MyMaps/MainMenu' took 0.020
+[2024.12.06-19.26.08:883][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyBlueprints/MainMenuPawn] ([2] browsable assets)...
+[2024.12.06-19.26.08:883][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/MainMenuPawn]
+[2024.12.06-19.26.08:895][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/MainMenuPawn_Auto7
+[2024.12.06-19.26.08:895][208]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MainMenuPawn_Auto7A1870AE54A3E7E8EE8AFEAA9CC4626B1.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/Autosaves/Game/MyBlueprints/MainMenuPawn_Auto7.uasset'
+[2024.12.06-19.26.08:897][208]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MyBlueprints/InputActionTriggerLeft] ([1] browsable assets)...
+[2024.12.06-19.26.08:897][208]OBJ SavePackage: Finished generating thumbnails for package [/Game/MyBlueprints/InputActionTriggerLeft]
+[2024.12.06-19.26.08:897][208]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MyBlueprints/InputActionTriggerLeft_Auto7
+[2024.12.06-19.26.08:897][208]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/InputActionTriggerLeft_Auto76954F4BF423651C6AE27B4AAAECFF52E.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/Autosaves/Game/MyBlueprints/InputActionTriggerLeft_Auto7.uasset'
+[2024.12.06-19.26.08:898][208]LogFileHelpers: Auto-saving content packages took 0.016
+[2024.12.06-19.27.08:744][708]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.27.08:747][708]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.27.08:747][708]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.27.08:783][708]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.06-19.27.28:146][846]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.27.28:148][846]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.27.28:148][846]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.27.28:181][846]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.12.06-19.29.54:132][152]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.29.54:135][152]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.29.54:135][152]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.29.54:170][152]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.06-19.31.08:981][676]BlueprintLog: New page: Compile MainMenuPawn
+[2024.12.06-19.31.08:983][676]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Right_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (R) Trigger Touch
+[2024.12.06-19.31.08:984][676]LogBlueprint: Warning: [AssetLog] C:\Users\guerschu\OneDrive\Hw310H\FA24-GuerdetM-StumpC\HW2\Content\MyBlueprints\MainMenuPawn.uasset: [Compiler] InputKey Event specifies FKey'OculusTouch_Left_Trigger_Touch' that is not blueprint bindable for  Oculus Touch (L) Trigger Touch
+[2024.12.06-19.31.09:018][676]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+=======
 [2024.12.06-19.13.00:454][  1]Running Python start-up script 'C:/Program Files/Epic Games/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 0.037544 secs
 [2024.12.06-19.13.00:553][  1]LogD3D12RHI: Cannot end block when stack is empty
 [2024.12.06-19.13.00:729][ 17]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 3.115947
@@ -3548,3 +3601,4 @@ Script Stack (0 frames) :
 [2024.12.06-19.15.13:478][386]LogD3D12RHI: ~FD3D12DynamicRHI
 [2024.12.06-19.15.13:526][386]LogExit: Exiting.
 [2024.12.06-19.15.13:578][386]Log file closed, 12/06/24 12:15:13
+
