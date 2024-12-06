@@ -2232,3 +2232,176 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-17.41.11:094][243]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 2.03 sec)
 [2024.12.06-17.41.11:095][243]AssetCheck: New page: Asset Save: WinLevel
 [2024.12.06-17.41.11:095][243]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/WinLevel.WinLevel
+[2024.12.06-17.41.49:918][735]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable.MyGrabbable_C
+[2024.12.06-17.41.49:918][735]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable.MyGrabbable_C
+[2024.12.06-17.41.49:920][735]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable as actor: MyGrabbable_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable_C_0
+[2024.12.06-17.41.49:921][735]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable as actor: MyGrabbable_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable_C_0
+[2024.12.06-17.41.52:511][  0]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable.MyGrabbable_C
+[2024.12.06-17.41.52:511][  0]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable.MyGrabbable_C
+[2024.12.06-17.41.52:513][  0]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable as actor: MyGrabbable_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable_C_1
+[2024.12.06-17.41.52:514][  0]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable.MyGrabbable as actor: MyGrabbable_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable_C_1
+[2024.12.06-17.42.00:414][924]Cmd: DUPLICATE
+[2024.12.06-17.42.00:414][924]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.43.00:970][418]LogSlateStyle: Warning: Missing Resource from 'NiagaraEditorStyle' Style: 'Unable to find Color 'NiagaraEditor.AssetColors.DataChannel'.'
+[2024.12.06-17.43.12:399][831]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2024.12.06-17.43.16:970][262]LogContentBrowser: Deferred new asset file creation: MyGrabbable1
+[2024.12.06-17.43.16:978][262]LogContentBrowser: Creating deferred item: MyGrabbable1
+[2024.12.06-17.43.16:994][263]LogContentBrowser: Renaming the item being created (Deferred Item: MyGrabbable1).
+[2024.12.06-17.43.18:520][438]LogContentBrowser: Attempting asset rename: MyGrabbable1 -> MyGrabbable1
+[2024.12.06-17.43.18:557][438]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.12.06-17.43.18:571][438]LogContentBrowser: End creating deferred item MyGrabbable1
+[2024.12.06-17.43.18:612][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.43.19:192][489]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1
+[2024.12.06-17.43.19:193][489]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.43.19:193][489]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.43.23:156][812]LogSlate: Window 'MyGrabbable1' being destroyed
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: Total job queries 1,185, among them cache hits 31 (2.62%)
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: Tracking 1,150 distinct input hashes that result in 686 distinct outputs (59.65%)
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: RAM used: 23.61 MiB of 1.60 GiB budget. Usage: 1.44%
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-17.44.31:247][ 21]LogShaderCompilers: Display: Shaders Compiled: 1,150
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Jobs assigned 1,151, completed 1,150 (99.91%)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Average time worker was idle: 132.20 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Time job spent in pending queue: average 26.96 s, longest 76.09 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Job execution time: average 5.48 s, max 15.43 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Job life time (pending + execution): average 32.46 s, max 77.21
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Shader code size: average 53.896 KiB, min 2.262 KiB, max 100.613 KiB
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 112.05 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Jobs were issued in 229 batches (only local compilation was used), average 5.03 jobs/batch
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Average processing rate: 10.26 jobs/sec
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Total thread time: 714.756 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Total thread preprocess time: 20.541 s
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Percentage time preprocessing: 2.87%
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Effective parallelization: 6.38 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 1.84 sec, max 2.29 sec, min 1.62 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 1.79 sec, max 2.63 sec, min 1.56 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   42 times, average 1.75 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   11 times, average 1.69 sec, max 2.86 sec, min 0.52 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   11 times, average 1.66 sec, max 2.65 sec, min 0.48 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.29% of total time (compiled   42 times, average 1.75 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.44% of total time (compiled   50 times, average 1.21 sec, max 2.55 sec, min 0.18 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 6.03% of total time (compiled   26 times, average 1.66 sec, max 2.67 sec, min 0.51 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 6.01% of total time (compiled   26 times, average 1.65 sec, max 2.63 sec, min 0.52 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.99% of total time (compiled   26 times, average 1.65 sec, max 2.72 sec, min 0.51 sec)
+[2024.12.06-17.44.31:248][ 21]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.44.42:169][195]BlueprintLog: New page: Compile MyGrabbable1
+[2024.12.06-17.44.42:193][195]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.12.06-17.44.43:233][297]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.44.43:282][297]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/MyGrabbable1" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/MyGrabbable1.uasset" SILENT=true
+[2024.12.06-17.44.43:285][297]LogSavePackage: Moving output files for package: /Game/MyBlueprints/MyGrabbable1
+[2024.12.06-17.44.43:285][297]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyGrabbable12CF8FD90494B8F0662E7B889A7653C5C.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/MyGrabbable1.uasset'
+[2024.12.06-17.44.43:294][297]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.09 sec)
+[2024.12.06-17.44.43:295][297]AssetCheck: New page: Asset Save: MyGrabbable1
+[2024.12.06-17.44.43:295][297]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1
+[2024.12.06-17.44.44:302][413]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.44.44:389][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.12.06-17.44.44:399][413]LogSavePackage: Moving output files for package: /Game/MyMaps/WinLevel
+[2024.12.06-17.44.44:400][413]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/WinLevelE813C8064E42377E1B7A55B548AF3BD4.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/WinLevel.umap'
+[2024.12.06-17.44.44:406][413]LogFileHelpers: Saving map 'WinLevel' took 0.055
+[2024.12.06-17.44.44:414][413]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 2.20 sec)
+[2024.12.06-17.44.44:416][413]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-17.44.44:416][413]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/WinLevel.WinLevel
+[2024.12.06-17.44.46:430][646]Cmd: DELETE
+[2024.12.06-17.44.46:430][646]Cmd: ACTOR DELETE
+[2024.12.06-17.44.46:431][646]LogEditorActor: Deleted Actor: MyGrabbable_C
+[2024.12.06-17.44.46:446][646]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.12.06-17.44.46:448][646]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.12.06-17.44.47:972][822]Cmd: DELETE
+[2024.12.06-17.44.47:972][822]Cmd: ACTOR DELETE
+[2024.12.06-17.44.47:974][822]LogEditorActor: Deleted Actor: MyGrabbable_C
+[2024.12.06-17.44.47:985][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.12.06-17.44.47:987][822]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.12.06-17.44.50:445][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable1.MyGrabbable1_C
+[2024.12.06-17.44.50:445][ 87]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable1.MyGrabbable1_C
+[2024.12.06-17.44.50:447][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1 as actor: MyGrabbable1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable1_C_0
+[2024.12.06-17.44.50:448][ 87]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1 as actor: MyGrabbable1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable1_C_0
+[2024.12.06-17.44.51:465][204]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable1.MyGrabbable1_C
+[2024.12.06-17.44.51:465][204]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MyGrabbable1.MyGrabbable1_C
+[2024.12.06-17.44.51:467][204]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1 as actor: MyGrabbable1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable1_C_1
+[2024.12.06-17.44.51:468][204]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MyGrabbable1.MyGrabbable1 as actor: MyGrabbable1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.MyGrabbable1_C_1
+[2024.12.06-17.45.01:090][311]Cmd: DUPLICATE
+[2024.12.06-17.45.01:090][311]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.45.19:357][339]LogContentBrowser: Deferred new asset file creation: grabbableDecor1
+[2024.12.06-17.45.19:369][339]LogContentBrowser: Creating deferred item: grabbableDecor1
+[2024.12.06-17.45.19:399][340]LogContentBrowser: Renaming the item being created (Deferred Item: grabbableDecor1).
+[2024.12.06-17.45.20:002][400]LogContentBrowser: Attempting asset rename: grabbableDecor1 -> grabbableDecor1
+[2024.12.06-17.45.20:021][400]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.12.06-17.45.20:034][400]LogContentBrowser: End creating deferred item grabbableDecor1
+[2024.12.06-17.45.20:087][401]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.45.20:180][403]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1
+[2024.12.06-17.45.20:180][403]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.45.20:180][403]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.46.12:016][346]BlueprintLog: New page: Compile grabbableDecor1
+[2024.12.06-17.46.12:040][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.12.06-17.46.12:908][437]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.46.12:984][437]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MyBlueprints/grabbableDecor1" FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/grabbableDecor1.uasset" SILENT=true
+[2024.12.06-17.46.12:987][437]LogSavePackage: Moving output files for package: /Game/MyBlueprints/grabbableDecor1
+[2024.12.06-17.46.12:987][437]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/grabbableDecor1892008FE4906407C9217139BE7C2A7F9.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyBlueprints/grabbableDecor1.uasset'
+[2024.12.06-17.46.12:997][437]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 2.29 sec)
+[2024.12.06-17.46.12:998][437]AssetCheck: New page: Asset Save: grabbableDecor1
+[2024.12.06-17.46.12:998][437]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1
+[2024.12.06-17.46.17:483][909]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/grabbableDecor1.grabbableDecor1_C
+[2024.12.06-17.46.17:483][909]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/grabbableDecor1.grabbableDecor1_C
+[2024.12.06-17.46.17:487][909]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1 as actor: grabbableDecor1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.grabbableDecor1_C_0
+[2024.12.06-17.46.17:489][909]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1 as actor: grabbableDecor1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.grabbableDecor1_C_0
+[2024.12.06-17.46.19:062][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/grabbableDecor1.grabbableDecor1_C
+[2024.12.06-17.46.19:062][ 49]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/grabbableDecor1.grabbableDecor1_C
+[2024.12.06-17.46.19:065][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1 as actor: grabbableDecor1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.grabbableDecor1_C_1
+[2024.12.06-17.46.19:068][ 49]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/grabbableDecor1.grabbableDecor1 as actor: grabbableDecor1_C /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.grabbableDecor1_C_1
+[2024.12.06-17.46.30:617][400]Cmd: DUPLICATE
+[2024.12.06-17.46.30:617][400]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.46.44:512][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2024.12.06-17.46.44:512][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2024.12.06-17.46.44:513][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_0
+[2024.12.06-17.46.45:914][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2024.12.06-17.46.45:914][ 22]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200
+[2024.12.06-17.46.45:915][ 22]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Architecture/Wall_400x200.Wall_400x200 as actor: StaticMeshActor /Game/MyMaps/WinLevel.WinLevel:PersistentLevel.StaticMeshActor_2
+[2024.12.06-17.47.43:011][668]Cmd: DUPLICATE
+[2024.12.06-17.47.43:011][668]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.47.49:260][394]Cmd: DUPLICATE
+[2024.12.06-17.47.49:260][394]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Total job queries 1,199, among them cache hits 33 (2.75%)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Tracking 1,162 distinct input hashes that result in 695 distinct outputs (59.81%)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: RAM used: 24.14 MiB of 1.60 GiB budget. Usage: 1.47%
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Shaders Compiled: 1,162
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Jobs assigned 1,163, completed 1,162 (99.91%)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Average time worker was idle: 127.33 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Time job spent in pending queue: average 26.68 s, longest 76.09 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Job execution time: average 5.43 s, max 15.43 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Job life time (pending + execution): average 32.13 s, max 77.21
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Shader code size: average 54.238 KiB, min 2.262 KiB, max 100.613 KiB
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 117.62 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Jobs were issued in 241 batches (only local compilation was used), average 4.83 jobs/batch
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Average processing rate: 9.88 jobs/sec
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Total thread time: 721.229 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Total thread preprocess time: 20.809 s
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Percentage time preprocessing: 2.89%
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Effective parallelization: 6.13 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 1.84 sec, max 2.29 sec, min 1.62 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 1.79 sec, max 2.63 sec, min 1.56 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   45 times, average 1.73 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   11 times, average 1.69 sec, max 2.86 sec, min 0.52 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   11 times, average 1.66 sec, max 2.65 sec, min 0.48 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.80% of total time (compiled   45 times, average 1.73 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.45% of total time (compiled   53 times, average 1.15 sec, max 2.55 sec, min 0.17 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.97% of total time (compiled   26 times, average 1.66 sec, max 2.67 sec, min 0.51 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.96% of total time (compiled   26 times, average 1.65 sec, max 2.63 sec, min 0.52 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.94% of total time (compiled   26 times, average 1.65 sec, max 2.72 sec, min 0.51 sec)
+[2024.12.06-17.48.18:312][668]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.48.32:551][204]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.48.32:629][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.06-17.48.32:642][204]LogSavePackage: Moving output files for package: /Game/MyMaps/WinLevel
+[2024.12.06-17.48.32:643][204]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/WinLevel6B6A3DB64ED46B7BF47FC1BA3091499E.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/WinLevel.umap'
+[2024.12.06-17.48.32:650][204]LogFileHelpers: Saving map 'WinLevel' took 0.063
+[2024.12.06-17.48.32:656][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.40 sec)
+[2024.12.06-17.48.32:658][204]AssetCheck: New page: Asset Save: WinLevel
+[2024.12.06-17.48.32:658][204]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/WinLevel.WinLevel
