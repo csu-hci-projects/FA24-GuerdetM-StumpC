@@ -2899,19 +2899,3 @@ Script Stack (0 frames) :
 [2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffca9707374 KERNEL32.DLL!UnknownFunction []
 [2024.12.06-19.11.56:856][598]LogOutputDevice: Error: [Callstack] 0x00007ffca9f7cc91 ntdll.dll!UnknownFunction []
 [2024.12.06-19.11.56:856][598]LogOutputDevice: Error: 
-[2024.12.06-19.11.56:868][598]LogStats:                SubmitErrorReport -  0.000 s
-[2024.12.06-19.11.58:123][598]LogStats:                    SendNewReport -  1.255 s
-[2024.12.06-19.11.58:123][598]LogStats:             FDebug::EnsureFailed -  1.278 s
-[2024.12.06-19.11.58:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
-[2024.12.06-19.11.58:150][599]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MyBlueprints/MainMenuPawn.MainMenuPawn_C
-[2024.12.06-19.11.58:153][599]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_1
-[2024.12.06-19.11.58:155][599]LogActorFactory: Actor Factory spawned Blueprint /Game/MyBlueprints/MainMenuPawn.MainMenuPawn as actor: MainMenuPawn_C /Game/MyMaps/MainMenu.MainMenu:PersistentLevel.MainMenuPawn_C_1
-[2024.12.06-19.11.58:242][600]LogViewport: Scene viewport resized to 643x397, mode Windowed.
-[2024.12.06-19.12.54:087][  7]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2024.12.06-19.12.54:192][  7]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
-[2024.12.06-19.12.54:206][  7]LogSavePackage: Moving output files for package: /Game/MyMaps/MainMenu
-[2024.12.06-19.12.54:207][  7]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MainMenu141E75C44384A7616D3921BB4F0D3EA0.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MainMenu.umap'
-[2024.12.06-19.12.54:215][  7]LogFileHelpers: Saving map 'MainMenu' took 0.068
-[2024.12.06-19.12.54:226][  7]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.69 sec)
-[2024.12.06-19.12.54:228][  7]AssetCheck: New page: Asset Save: MainMenu
-[2024.12.06-19.12.54:228][  7]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MainMenu.MainMenu
