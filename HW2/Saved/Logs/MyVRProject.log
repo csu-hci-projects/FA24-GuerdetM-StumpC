@@ -2405,3 +2405,152 @@ Please use /Niagara/Modules/Spawn/Initialization/V2/InitializeParticle.Initializ
 [2024.12.06-17.48.32:656][204]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 2.40 sec)
 [2024.12.06-17.48.32:658][204]AssetCheck: New page: Asset Save: WinLevel
 [2024.12.06-17.48.32:658][204]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/WinLevel.WinLevel
+[2024.12.06-17.48.59:927][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.12.06-17.48.59:930][842]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-17.48.59:930][842]Cmd: MAP LOAD FILE="../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.12.06-17.48.59:930][842]LightingResults: New page: Lighting Build
+[2024.12.06-17.48.59:931][842]LoadErrors: New page: Loading map: MyVRMap.umap
+[2024.12.06-17.48.59:957][842]LogWorld: UWorld::CleanupWorld for WinLevel, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.48.59:958][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.48.59:958][842]MapCheck: New page: Map Check
+[2024.12.06-17.48.59:958][842]LightingResults: New page: Lighting Build
+[2024.12.06-17.48.59:971][842]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.12.06-17.48.59:974][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.12.06-17.48.59:976][842]LogWorld: UWorld::CleanupWorld for MyVRMap, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.48.59:976][842]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.48.59:993][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.12.06-17.49.00:007][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.12.06-17.49.00:022][842]LogAudio: Display: Audio Device (ID: 1) registered with world 'MyVRMap'.
+[2024.12.06-17.49.00:022][842]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.49.00:022][842]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.49.00:023][842]LogAIModule: Creating AISystem for world MyVRMap
+[2024.12.06-17.49.00:052][842]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.12.06-17.49.00:070][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2024.12.06-17.49.00:074][842]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.12.06-17.49.00:074][842]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.137ms to complete.
+[2024.12.06-17.51.00:156][182]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.51.00:255][182]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.12.06-17.51.00:280][182]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-17.51.00:280][182]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMapD7D5C1B04A811A02162C1FB8F6FA1C10.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-17.51.00:289][182]LogFileHelpers: Saving map 'MyVRMap' took 0.075
+[2024.12.06-17.51.00:296][182]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 2.54 sec)
+[2024.12.06-17.51.00:298][182]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-17.51.00:298][182]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
+[2024.12.06-17.53.07:070][362]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.53.07:070][362]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.53.11:289][838]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-17.53.11:289][838]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.53.11:289][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.53.11:799][889]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.12.06-17.53.11:799][889]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.12.06-17.53.11:799][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.12.06-17.53.21:545][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MyBlueprints/AmmoPistol.AmmoPistol
+[2024.12.06-17.53.21:546][932]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.12.06-17.53.21:546][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.12.06-17.55.23:800][923]BlueprintLog: New page: Compile AmmoPistol
+[2024.12.06-17.55.23:835][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.12.06-17.55.30:416][635]LogAssetEditorSubsystem: Opening Asset editor for InputAction /Game/MyBlueprints/IM_Reload_Right.IM_Reload_Right
+[2024.12.06-17.55.35:387][168]LogSlate: Window 'IM_Reload_Right' being destroyed
+[2024.12.06-17.56.22:131][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2024.12.06-17.56.22:131][369]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2024.12.06-17.56.22:131][369]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_9
+[2024.12.06-17.56.25:367][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2024.12.06-17.56.25:367][752]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch
+[2024.12.06-17.56.25:368][752]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Couch.SM_Couch as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_10
+[2024.12.06-17.56.35:674][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2024.12.06-17.56.35:674][807]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2024.12.06-17.56.35:675][807]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_11
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Total job queries 1,203, among them cache hits 33 (2.74%)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Tracking 1,166 distinct input hashes that result in 697 distinct outputs (59.78%)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: RAM used: 24.31 MiB of 1.60 GiB budget. Usage: 1.48%
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Shaders Compiled: 1,166
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Jobs assigned 1,167, completed 1,166 (99.91%)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Average time worker was idle: 129.36 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Time job spent in pending queue: average 26.59 s, longest 76.09 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Job execution time: average 5.41 s, max 15.43 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Job life time (pending + execution): average 32.02 s, max 77.21
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Shader code size: average 54.324 KiB, min 2.262 KiB, max 100.613 KiB
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 120.94 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Jobs were issued in 245 batches (only local compilation was used), average 4.76 jobs/batch
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Average processing rate: 9.64 jobs/sec
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Total thread time: 724.679 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Total thread preprocess time: 20.906 s
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Percentage time preprocessing: 2.88%
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Effective parallelization: 5.99 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled   22 times, average 1.84 sec, max 2.29 sec, min 1.62 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 1.79 sec, max 2.63 sec, min 1.56 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   47 times, average 1.72 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:                         TBasePassPSTLightMapPolicyLQSkylight (compiled   11 times, average 1.69 sec, max 2.86 sec, min 0.52 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   11 times, average 1.66 sec, max 2.65 sec, min 0.48 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 11.15% of total time (compiled   47 times, average 1.72 sec, max 2.45 sec, min 0.53 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 8.40% of total time (compiled   53 times, average 1.15 sec, max 2.55 sec, min 0.17 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy - 5.95% of total time (compiled   26 times, average 1.66 sec, max 2.67 sec, min 0.51 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 5.93% of total time (compiled   26 times, average 1.65 sec, max 2.63 sec, min 0.52 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 5.91% of total time (compiled   26 times, average 1.65 sec, max 2.72 sec, min 0.51 sec)
+[2024.12.06-17.56.35:989][837]LogShaderCompilers: Display: ================================================
+[2024.12.06-17.56.38:324][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2024.12.06-17.56.38:324][ 98]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling
+[2024.12.06-17.56.38:325][ 98]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Lamp_Ceiling.SM_Lamp_Ceiling as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_12
+[2024.12.06-17.56.39:363][213]Cmd: DELETE
+[2024.12.06-17.56.39:363][213]Cmd: ACTOR DELETE
+[2024.12.06-17.56.39:366][213]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-17.56.39:380][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.12.06-17.56.39:388][213]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.12.06-17.56.41:842][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2024.12.06-17.56.41:842][478]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2024.12.06-17.56.41:842][478]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_13
+[2024.12.06-17.56.44:404][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2024.12.06-17.56.44:404][781]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall
+[2024.12.06-17.56.44:405][781]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Lamp_Wall.SM_Lamp_Wall as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_14
+[2024.12.06-17.56.46:237][992]Cmd: DUPLICATE
+[2024.12.06-17.56.46:238][992]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.57.04:761][ 86]Cmd: DUPLICATE
+[2024.12.06-17.57.04:761][ 86]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.57.09:911][631]Cmd: DUPLICATE
+[2024.12.06-17.57.09:911][631]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.57.23:147][127]Cmd: DUPLICATE
+[2024.12.06-17.57.23:147][127]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.57.40:874][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2024.12.06-17.57.40:874][962]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2024.12.06-17.57.40:874][962]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_19
+[2024.12.06-17.57.42:134][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2024.12.06-17.57.42:134][101]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf
+[2024.12.06-17.57.42:135][101]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Shelf.SM_Shelf as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_20
+[2024.12.06-17.57.54:124][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.12.06-17.57.54:124][451]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.12.06-17.57.54:124][451]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_21
+[2024.12.06-17.57.55:803][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.12.06-17.57.55:803][631]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame
+[2024.12.06-17.57.55:804][631]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_CornerFrame.SM_CornerFrame as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_22
+[2024.12.06-17.58.07:380][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2024.12.06-17.58.07:380][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2024.12.06-17.58.07:380][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_23
+[2024.12.06-17.58.08:462][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2024.12.06-17.58.08:462][978]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs
+[2024.12.06-17.58.08:463][978]LogActorFactory: Actor Factory spawned StaticMesh /Game/StarterContent/Props/SM_Stairs.SM_Stairs as actor: StaticMeshActor /Game/MyMaps/MyVRMap.MyVRMap:PersistentLevel.StaticMeshActor_24
+[2024.12.06-17.58.34:100][950]Cmd: DUPLICATE
+[2024.12.06-17.58.34:100][950]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.58.38:466][461]Cmd: DUPLICATE
+[2024.12.06-17.58.38:466][461]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.58.44:552][176]Cmd: DUPLICATE
+[2024.12.06-17.58.44:552][176]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.58.50:917][906]Cmd: DUPLICATE
+[2024.12.06-17.58.50:917][906]Cmd: ACTOR DUPLICATE
+[2024.12.06-17.58.57:190][645]Cmd: DELETE
+[2024.12.06-17.58.57:190][645]Cmd: ACTOR DELETE
+[2024.12.06-17.58.57:192][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.12.06-17.58.57:208][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.12.06-17.58.57:213][645]LogEditorActor: Deleted 1 Actors (0.023 secs)
+[2024.12.06-17.59.03:953][420]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.12.06-17.59.04:046][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.12.06-17.59.04:071][420]LogSavePackage: Moving output files for package: /Game/MyMaps/MyVRMap
+[2024.12.06-17.59.04:071][420]LogSavePackage: Moving '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Saved/MyVRMapDD4D8601451E79B456AAC0A89BA23965.tmp' to '../../../../../../Users/guerschu/OneDrive/Hw310H/FA24-GuerdetM-StumpC/HW2/Content/MyMaps/MyVRMap.umap'
+[2024.12.06-17.59.04:079][420]LogFileHelpers: Saving map 'MyVRMap' took 0.074
+[2024.12.06-17.59.04:088][420]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 2.67 sec)
+[2024.12.06-17.59.04:089][420]AssetCheck: New page: Asset Save: MyVRMap
+[2024.12.06-17.59.04:090][420]LogContentValidation: Display: Validating /Script/Engine.World /Game/MyMaps/MyVRMap.MyVRMap
