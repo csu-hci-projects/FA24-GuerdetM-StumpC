@@ -5,7 +5,7 @@
 
 ## Youtube Videos
 ### Video Of VR Play
-*
+* https://youtu.be/R1ItBe01RKk
 
 ### Video of Explained BluePrints
 *
